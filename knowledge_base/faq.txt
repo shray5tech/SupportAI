@@ -1,0 +1,73 @@
+NEXUS FINANCIAL SERVICES - CUSTOMER SUPPORT KNOWLEDGE BASE
+
+=== ACCOUNT MANAGEMENT ===
+
+Q: How do I reset my account password?
+A: To reset your password: 1) Go to the login page and click 'Forgot Password'. 2) Enter your registered email address. 3) Check your email for a reset link (valid for 24 hours). 4) Click the link and create a new password with at least 8 characters, one uppercase letter, and one number. If you don't receive the email within 5 minutes, check your spam folder. For further help, call 1-800-NEXUS-01.
+
+Q: How do I update my contact information?
+A: Log in to your account, go to Settings > Personal Information, and click Edit. You can update your phone number, email, and mailing address. Changes take effect immediately. For security reasons, updating your address may require identity verification via OTP sent to your registered mobile.
+
+Q: My account is locked. What should I do?
+A: Accounts are locked after 5 failed login attempts for security. To unlock: 1) Click 'Unlock Account' on the login page. 2) Verify your identity via email OTP. 3) Reset your password. If you're unable to complete this, call our 24/7 helpline at 1-800-NEXUS-01 with your account number and government ID ready.
+
+Q: How do I add an authorized user to my account?
+A: Primary account holders can add authorized users by going to Account Settings > Manage Users > Add User. The new user will receive an invitation email. Authorized users can view balances and make transactions but cannot change account settings or add further users.
+
+=== BILLING & PAYMENTS ===
+
+Q: Why is there an unexpected charge on my account?
+A: Unexpected charges can result from: 1) Subscription renewals you may have forgotten. 2) Merchant pre-authorizations (these appear temporarily). 3) Annual fees charged on your account anniversary date. Log in and check your transaction details. If you still don't recognize it, call us immediately at 1-800-NEXUS-01 to dispute the charge within 60 days of the statement date.
+
+Q: How do I dispute a transaction?
+A: To dispute a charge: 1) Log in and navigate to Transactions. 2) Click on the charge you want to dispute. 3) Select 'Dispute This Transaction' and choose a reason. 4) We'll investigate within 7-10 business days. 5) A provisional credit may be applied within 48 hours while we investigate. Keep any receipts or evidence related to the dispute.
+
+Q: When is my payment due?
+A: Your payment due date is listed on your monthly statement and visible on your dashboard under 'Next Payment Due'. Payments must be received by 11:59 PM on the due date to avoid late fees. Set up AutoPay in Settings > Payments > AutoPay to never miss a payment.
+
+Q: How do I set up automatic payments?
+A: Go to Settings > Payments > AutoPay. Choose to pay the minimum amount, full balance, or a custom amount. Link your bank account by entering your routing and account numbers. AutoPay activates within 2 business days. You'll receive a confirmation email and a 3-day advance notice before each automatic payment.
+
+Q: What are the late payment fees?
+A: Late payment fees are: $29 for balances under $1,000, $39 for balances over $1,000. A late payment may also affect your credit score. If this is your first late payment, call us at 1-800-NEXUS-01 — we may be able to waive the fee as a courtesy.
+
+=== REWARDS & BENEFITS ===
+
+Q: How do I redeem my reward points?
+A: Redeem points by logging in and going to Rewards > Redeem Points. Options include: cash back (credited to your account), travel bookings (flights, hotels), gift cards, and merchandise. Minimum redemption is 500 points. Points expire 3 years after they are earned. Note: cash back redemptions take 2-3 business days to post.
+
+Q: How many points do I earn per purchase?
+A: You earn: 3x points on dining and travel, 2x points on groceries and online shopping, 1x point on all other purchases. Bonus categories can earn up to 5x during promotional periods. Check the Rewards section of your account for current promotions.
+
+Q: My reward points are missing. What happened?
+A: Points typically post within 48-72 hours after a transaction. If points are still missing after 5 business days: 1) Verify the transaction shows in your account. 2) Check if the merchant is an eligible rewards partner. 3) Submit a points inquiry through Rewards > Point Inquiry. Our team responds within 3-5 business days.
+
+=== CARD SERVICES ===
+
+Q: My card was lost or stolen. What should I do?
+A: Act immediately: 1) Call 1-800-NEXUS-LOST (available 24/7) to report and block the card instantly. 2) OR log in and go to Card Services > Report Lost/Stolen. 3) A replacement card will be shipped within 3-5 business days (expedited delivery available for $15). 4) All transactions after your report are covered under our Zero Liability Policy.
+
+Q: How do I increase my credit limit?
+A: You can request a credit limit increase by: 1) Logging in and going to Card Services > Credit Limit Increase. 2) Providing your current annual income. 3) We'll review your account history and credit score. Decisions are typically made within 2-3 business days. Note: requesting an increase may result in a hard credit inquiry.
+
+Q: How do I freeze my card temporarily?
+A: Go to Card Services > Freeze Card to instantly freeze your card (no new transactions will be authorized). You can unfreeze anytime. Recurring payments and refunds will still process while frozen. This is useful if you've misplaced your card but aren't sure it's lost.
+
+=== TECHNICAL ISSUES ===
+
+Q: The app is not loading. What should I do?
+A: Try these steps: 1) Check your internet connection. 2) Force-close and reopen the app. 3) Clear the app cache (Settings > Apps > Nexus > Clear Cache). 4) Update the app to the latest version from the App Store or Google Play. 5) Restart your phone. If the issue persists, our technical team can be reached at support@nexusfinancial.com.
+
+Q: I'm not receiving OTP messages.
+A: If OTPs are not arriving: 1) Check that your registered mobile number is correct in Settings. 2) Check if your phone has signal or mobile data. 3) Check if the number is blocked for SMS. 4) Try requesting a voice OTP instead. 5) OTPs expire in 5 minutes — request a fresh one if it has expired. If none of these work, call 1-800-NEXUS-01.
+
+Q: How do I enable two-factor authentication?
+A: Go to Settings > Security > Two-Factor Authentication and toggle it on. Choose your preferred method: SMS OTP, email OTP, or authenticator app (recommended for highest security). Using an authenticator app like Google Authenticator is more secure and works even without mobile signal.
+
+=== ESCALATION POLICY ===
+
+Q: How do I speak to a human agent?
+A: To reach a live agent: call 1-800-NEXUS-01 (24/7) or use live chat available Monday-Friday 9 AM - 9 PM EST. Average wait time is under 5 minutes. For complex disputes, fraud cases, or complaints, you can also email escalations@nexusfinancial.com with your account number and a description of the issue. We aim to respond within 24 hours.
+
+Q: What is the complaint resolution process?
+A: 1) Register your complaint via phone, chat, or email. 2) Receive a complaint reference number within 1 hour. 3) A dedicated case manager is assigned within 24 hours. 4) Resolution provided within 5-7 business days for standard cases, 30 days for complex investigations. 5) If unsatisfied, escalate to our Customer Advocacy team at advocacy@nexusfinancial.com.
